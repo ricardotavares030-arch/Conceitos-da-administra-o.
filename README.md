@@ -34,6 +34,7 @@ Estabelecendo Estratégias.
 
 
 Conjunto de Prompts para reutilização.
+
 Quais os pricipais conceitos da administração.
 qual a base da administração nos dias de hoje 
 quais foram os principais pensadores da administração.
